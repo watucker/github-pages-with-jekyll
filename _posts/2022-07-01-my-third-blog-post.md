@@ -1,6 +1,6 @@
 ---
 title: "Loolaloolaloo"
-date: 2019-01-20
+date: 2019-01-22
 ---
 
 I'm saying things in my blog post again.
