@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Roadmap for Net Zero"
 date: 2022-07-01
 ---
